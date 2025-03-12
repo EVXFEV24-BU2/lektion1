@@ -6,7 +6,7 @@ paging: "%d / %d"
 
 # Ritning
 
-![ritning](https://github.com/EVXFEV24-BU2/lektion11/blob/main/webapi.png?raw=true)
+![ritning](https://github.com/EVXFEV24-BU2/lektion1/blob/main/webapi.png?raw=true)
 
 ---
 
