@@ -4,6 +4,12 @@ date: MMMM dd, YYYY
 paging: "%d / %d"
 ---
 
+# Ritning
+
+![ritning](https://github.com/EVXFEV24-BU2/lektion11/blob/main/webapi.png?raw=true)
+
+---
+
 # Teams lektion 1
 
 Hej och välkommen!
